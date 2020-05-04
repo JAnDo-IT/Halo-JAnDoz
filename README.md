@@ -5,4 +5,4 @@ Repository to store folders, files, ideas, images, videos, spreadsheets, and dat
 
 Check my first slide page created [JAnDoz GitHub Initial Page](https://jando-it.github.io/github-slideshow/)
 
-### :eyes: Enjoy :ok_hand:
+:eyes: **Enjoy** :ok_hand:
